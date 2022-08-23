@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevin D'sivla @kevindsilva7
 - 👀 I’m interested in wringing out knowledge from data
-- 🌱 I’m currently learning Reccomendation Systems
+- 🌱 I’m currently learning image classification using CNN
 - 💞️ I’m looking to collaborate on Machine Learning and Data Analytics projects
 - 📫 How to reach me g.kevindsilva7@gmail.com
 
